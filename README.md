@@ -24,7 +24,7 @@ Evaluate three machine learning models by using resampling to determine which is
 
 ### Naive Random Oversampling
 
-![Naive Random Oversampling]()
+![Naive Random Oversampling](https://github.com/CorinneBean/Credit_Risk_Analysis/blob/305299b1dd4e9632a4638f2127f78e64a8b6ee16/Images/Naive%20Random%20Oversampling.png)
 
 - Balance Accuracy Score: 0.6293939430565123
 - Precision:Precision is low for high_risk and high for low_risk.
@@ -32,7 +32,7 @@ Evaluate three machine learning models by using resampling to determine which is
 
 ### SMOTE Oversampling
 
-![SMOTE Oversampling]()
+![SMOTE Oversampling](https://github.com/CorinneBean/Credit_Risk_Analysis/blob/305299b1dd4e9632a4638f2127f78e64a8b6ee16/Images/SMOTE%20Oversampling.png)
 
 - Balance Accuracy Score: 0.6277008271188627
 - Precision:Precision is low for high_risk and high for low_risk.
@@ -50,18 +50,18 @@ Evaluate three machine learning models by using resampling to determine which is
 
 ### Combination (Over and Under) Sampling
 
-![Over and Under Sampling]()
+![Over and Under Sampling](https://github.com/CorinneBean/Credit_Risk_Analysis/blob/305299b1dd4e9632a4638f2127f78e64a8b6ee16/Images/Over%20and%20Under%20Sampling.png)
 
-- Balance Accuracy Score: 0.6277008271188627
+- Balance Accuracy Score: 0.5103309281216384
 - Precision:Precision is low for high_risk and high for low_risk.
-- Recall: High/Low risk = .59/.43
+- Recall: High/Low risk = .70/.61
 
 
 ## Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
 ### Balance Random Forest Classifer
 
-![Random Forest]()
+![Random Forest](https://github.com/CorinneBean/Credit_Risk_Analysis/blob/305299b1dd4e9632a4638f2127f78e64a8b6ee16/Images/Random%20Forest.png)
 
 - Balance Accuracy Score: 0.8266782992216518
 - Precision:Precision is low for high_risk and high for low_risk.
@@ -69,13 +69,11 @@ Evaluate three machine learning models by using resampling to determine which is
 
 ### Easy Ensemble AdaBoost Classifer
 
-![Ensemble AdaBoost]()
+![Ensemble AdaBoost](https://github.com/CorinneBean/Credit_Risk_Analysis/blob/305299b1dd4e9632a4638f2127f78e64a8b6ee16/Images/Ensemble%20AdaBoost.png)
 
 - Balance Accuracy Score: 0.9276569608939551
 - Precision:Precision is low for high_risk and high for low_risk.
 - Recall: High/Low risk = .92/.94
-
-
 
 
 ## Summary
