@@ -73,7 +73,7 @@ Evaluate three machine learning models by using resampling to determine which is
 
 - Balance Accuracy Score: 0.9276569608939551
 - Precision:Precision is low for high_risk and high for low_risk.
-- Recall: High/Low risk = .92/.94
+- Recall: High/Low risk = .91/.95
 
 
 ## Summary
