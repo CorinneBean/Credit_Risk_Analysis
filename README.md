@@ -40,7 +40,7 @@ Evaluate three machine learning models by using resampling to determine which is
 
 ### Undersampling
 
-![Undersampling]()
+![Undersampling](https://github.com/CorinneBean/Credit_Risk_Analysis/blob/d8b2912d2d81aefeb5ae80c5d900ba87fbe87b89/Images/under%20sampling.png)
 
 - Balance Accuracy Score: 0.6277008271188627
 - Precision:Precision is low for high_risk and high for low_risk.
@@ -50,7 +50,7 @@ Evaluate three machine learning models by using resampling to determine which is
 
 ### Combination (Over and Under) Sampling
 
-![Over and Under Sampling](https://github.com/CorinneBean/Credit_Risk_Analysis/blob/305299b1dd4e9632a4638f2127f78e64a8b6ee16/Images/Over%20and%20Under%20Sampling.png)
+![Over and Under Sampling]()
 
 - Balance Accuracy Score: 0.5103309281216384
 - Precision:Precision is low for high_risk and high for low_risk.
