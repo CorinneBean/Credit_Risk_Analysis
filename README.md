@@ -50,7 +50,7 @@ Evaluate three machine learning models by using resampling to determine which is
 
 ### Combination (Over and Under) Sampling
 
-![Over and Under Sampling]()
+![Over and Under Sampling](https://github.com/CorinneBean/Credit_Risk_Analysis/blob/c83b2c50dc073dfeda177c9334dd62bfc80cdbd8/Images/Over%20and%20Under%20Sampling.png)
 
 - Balance Accuracy Score: 0.5103309281216384
 - Precision:Precision is low for high_risk and high for low_risk.
